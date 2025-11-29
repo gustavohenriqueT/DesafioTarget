@@ -17,6 +17,7 @@ JSON de entrada (vendas.json)
 
 {
   "vendas": [
+  
     { "vendedor": "João Silva", "valor": 1200.50 },
     { "vendedor": "João Silva", "valor": 950.75 },
     { "vendedor": "João Silva", "valor": 1800.00 },
@@ -27,7 +28,7 @@ JSON de entrada (vendas.json)
     { "vendedor": "João Silva", "valor": 250.30 },
     { "vendedor": "João Silva", "valor": 480.75 },
     { "vendedor": "João Silva", "valor": 320.40 },
-
+    
     { "vendedor": "Maria Souza", "valor": 2100.40 },
     { "vendedor": "Maria Souza", "valor": 1350.60 },
     { "vendedor": "Maria Souza", "valor": 950.20 },
