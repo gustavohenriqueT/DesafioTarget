@@ -127,7 +127,7 @@ COMO EXECUTAR
 
 1. Instale Python (versão 3.10+)
 2. Clone o repositório:
-   git clone https://github.com/SEU-USUARIO/DesafioTarget.git
+   git clone https://github.com/gustavohenriqueT/DesafioTarget.git
 
 3. Execute os scripts:
    python desafio1.py   → comissão de vendedores
