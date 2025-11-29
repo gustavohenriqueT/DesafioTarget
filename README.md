@@ -77,6 +77,7 @@ JSON de entrada (estoque.json)
 
 {
   "estoque": [
+  
     {
       "codigoProduto": 101,
       "descricaoProduto": "Caneta Azul",
@@ -102,6 +103,7 @@ JSON de entrada (estoque.json)
       "descricaoProduto": "Marcador de Texto Amarelo",
       "esteque": 90
     }
+    
   ]
 }
 
