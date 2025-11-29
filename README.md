@@ -1,8 +1,6 @@
 DESAFIO TARGET - DOCUMENTAÇÃO
 
-=====================================================
 1. CÁLCULO DE COMISSÃO POR VENDEDOR
-=====================================================
 
 O programa lê um arquivo JSON contendo uma lista de vendas realizadas por vários vendedores.
 Para cada venda individual, a comissão é calculada conforme as regras:
@@ -61,9 +59,7 @@ JSON de entrada (vendas.json)
   ]
 }
 
-=====================================================
 2. SISTEMA DE MOVIMENTAÇÃO DE ESTOQUE
-=====================================================
 
 O programa controla entradas e saídas de produtos do estoque, conforme o JSON inicial.
 
@@ -108,10 +104,8 @@ JSON de entrada (estoque.json)
   ]
 }
 
-=====================================================
 3. CÁLCULO DE JUROS COM MULTA DIÁRIA DE 2,5%
-=====================================================
-
+   
 O programa calcula:
 - Dias de atraso
 - Juros acumulados aplicando 2,5% ao dia
@@ -129,9 +123,7 @@ Exemplo:
 - Dias em atraso: variável conforme data atual
 - Multa: 2.5% ao dia
 
-=====================================================
 COMO EXECUTAR
-=====================================================
 
 1. Instale Python (versão 3.10+)
 2. Clone o repositório:
@@ -139,11 +131,11 @@ COMO EXECUTAR
 
 3. Execute os scripts:
    python desafio1.py   → comissão de vendedores
-   python estoque.py    → movimentação de estoque
-   python juros.py      → cálculo de juros
+   python desafio2.py    → movimentação de estoque
+   python desafio3.py      → cálculo de juros
 
-=====================================================
+
 AUTOR
-=====================================================
+
 
 Gustavo Henrique Tomaz
