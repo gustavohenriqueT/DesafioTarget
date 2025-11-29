@@ -123,7 +123,7 @@ Exemplo:
 - Dias em atraso: variável conforme data atual
 - Multa: 2.5% ao dia
 
-COMO EXECUTAR
+## COMO EXECUTAR
 
 1. Instale Python (versão 3.10+)
 2. Clone o repositório:
