@@ -1,6 +1,6 @@
 DESAFIO TARGET - DOCUMENTAÇÃO
 
-1. CÁLCULO DE COMISSÃO POR VENDEDOR
+# 1. CÁLCULO DE COMISSÃO POR VENDEDOR
 
 O programa lê um arquivo JSON contendo uma lista de vendas realizadas por vários vendedores.
 Para cada venda individual, a comissão é calculada conforme as regras:
@@ -59,7 +59,7 @@ JSON de entrada (vendas.json)
   ]
 }
 
-2. SISTEMA DE MOVIMENTAÇÃO DE ESTOQUE
+# 2. SISTEMA DE MOVIMENTAÇÃO DE ESTOQUE
 
 O programa controla entradas e saídas de produtos do estoque, conforme o JSON inicial.
 
@@ -104,7 +104,7 @@ JSON de entrada (estoque.json)
   ]
 }
 
-3. CÁLCULO DE JUROS COM MULTA DIÁRIA DE 2,5%
+# 3. CÁLCULO DE JUROS COM MULTA DIÁRIA DE 2,5%
    
 O programa calcula:
 - Dias de atraso
